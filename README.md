@@ -4,7 +4,7 @@ Hello! 👋 I'm Itallo Vieira Arruda
 🚀 Currently improving my skills in C, Networks, and Systems.
 
 🛠️ Technologies & Tools
-Languages: C, Python, Shell Script
+Languages: C, Java, Python, Shell Script
 
 Operating Systems: Linux (Debian)
 
