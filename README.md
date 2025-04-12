@@ -1,23 +1,19 @@
-# Olá! 👋 Eu sou Itallo Vieira Arruda
+Hello! 👋 I'm Itallo Vieira Arruda
+🎓 Computer Engineering student at UFOP (Federal University of Ouro Preto).
+💻 Interested in software development, networks, and embedded systems.
+🚀 Currently improving my skills in C, Networks, and Systems.
 
-🎓 Estudante de Engenharia de Computação na UFOP.  
-💻 Interesse em desenvolvimento de software, redes e sistemas embarcados.  
-🚀 Atualmente aprimorando meus conhecimentos em C, Redes e Sistemas.  
+🛠️ Technologies & Tools
+Languages: C, Python, Shell Script
 
----
+Operating Systems: Linux (Debian)
 
-## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** C, Python, Shell Script  
-- **Sistemas Operacionais:** Linux (Debian)  
-- **Redes:** TCP/IP, Configuração de Servidores, Wireshark  
-- **Ferramentas:** Git/GitHub, Docker, Virtualização (VirtualBox/QEMU)  
+Networks: TCP/IP, Server Configuration, Wireshark
 
----
+Tools: Git/GitHub, Docker, Virtualization (VirtualBox/QEMU)
 
-## 📫 Contato  
-📧 Email: itallo.mccg@gmail.com  ||  itallovieiraarruda.@gmail.com
+📫 Contact
+📧 Email: itallo.mccg@gmail.com || itallovieiraarruda.@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ítallovieiraarruda/
 
----
-
-Seja bem-vindo ao meu GitHub! Sempre aberto a colaborações e novos aprendizados. 🚀
+Welcome to my GitHub! Always open to collaborations and new learning opportunities. 🚀
